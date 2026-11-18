@@ -1,4 +1,3 @@
-
 flowchart TD
     A([Start]) --> B[ゲームをプレイするか確認]
     B --> C{play == y?}
